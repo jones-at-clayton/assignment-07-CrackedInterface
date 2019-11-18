@@ -1,0 +1,81 @@
+h1{
+  text-align: center;
+ font-family: "Times New Roman", Times, serif;
+  border-style: solid;
+box-sizing: border-box;
+  font-family: cursive;
+  
+}
+
+p
+{
+text-align:center;
+   text-decoration: underline; 
+     font-family: cursive;
+font-family: cursive;
+}
+
+nav {
+    height: 48px;
+}
+
+nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    
+}
+nav li a {
+    font-family: cursive;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    
+}
+ p
+{ font-family: cursive;  
+top: 100px;
+}
+
+form1
+{
+  font-family: cursive  
+    
+}
+
+p2
+{
+font-family: cursive;
+text-align: center;
+}
+
+nav1 li a:hover {
+    color: #dd5771;
+    font-family: cursive;
+}
+
+p6
+{
+    
+font-family: cursive;
+    left: 500px;
+    
+}
+
+.boxed
+{
+    border: solid;
+}
+
+div1
+{
+top :200px; 
+left: 570px;
+    
+}
+
+footer
+{
+   font-family: cursive; 
+}
